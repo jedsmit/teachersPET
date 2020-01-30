@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "root",
+    "username": "rootpass",
     "password": "password",
     "database": "project2_db",
     "host": "localhost",
